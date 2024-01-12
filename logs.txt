@@ -1,0 +1,20 @@
+[12-Jan-24 20:43:42 - INFO] - TelegramBot - Starting TelegramBot....
+[12-Jan-24 20:43:42 - INFO] - TelegramBot - 
+____________________________________________________________________
+|  _______   _                                ____        _        |
+| |__   __| | |                              |  _ \      | |       |
+|    | | ___| | ___  __ _ _ __ __ _ _ __ ___ | |_) | ___ | |_      |
+|    | |/ _ \ |/ _ \/ _` | '__/ _` | '_ ` _ \|  _ < / _ \| __|     |
+|    | |  __/ |  __/ (_| | | | (_| | | | | | | |_) | (_) | |_      |
+|    |_|\___|_|\___|\__, |_|  \__,_|_| |_| |_|____/ \___/ \__|     |
+|                    __/ |                                         |
+|__________________________________________________________________|   
+
+[12-Jan-24 20:43:42 - INFO] - TelegramBot - setting up event loop....
+[12-Jan-24 20:43:42 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[12-Jan-24 20:43:42 - INFO] - apscheduler.scheduler - Added job "clear_download" to job store "default"
+[12-Jan-24 20:43:42 - INFO] - apscheduler.scheduler - Scheduler started
+[12-Jan-24 20:43:42 - INFO] - TelegramBot - initiating the client....
+[12-Jan-24 20:43:42 - INFO] - __main__ - client successfully initiated...
+[12-Jan-24 20:45:30 - INFO] - httpx - HTTP Request: GET http://api.telegram.org "HTTP/1.1 301 Moved Permanently"
+[12-Jan-24 20:45:58 - INFO] - root - Stop signal received (SIGINT). Exiting...
